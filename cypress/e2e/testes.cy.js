@@ -1,8 +1,5 @@
 
 context('Avaliação Técnica - Scripts de Testes E2E (BUGBANK)', () => {
-    //hooks -> executar antes ou depois dos testes
-    //before, after, beforeEach, afterEach
-
     beforeEach(() => {
       cy.visit("https://bugbank.netlify.app/", { failOnStatusCode: false });
     });
