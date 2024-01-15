@@ -6,13 +6,14 @@ Este é um conjunto de scripts de teste end-to-end (E2E) para a aplicação BugB
 
 Antes de executar os testes, certifique-se de ter o Cypress instalado. Execute o seguinte comando no terminal:
 
-```bash
+```
 npm install cypress --save-dev
-
+```
 ## Executando os Testes
 
-```bash
+````
 npx cypress run
+````
 
 Isso iniciará o Cypress e executará todos os testes automaticamente.
 
