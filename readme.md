@@ -1,7 +1,5 @@
 # BugBank - Testes E2E com Cypress
 
-Este é um conjunto de scripts de teste end-to-end (E2E) para a aplicação BugBank. Os testes são escritos usando o framework Cypress para garantir a qualidade e a confiabilidade da aplicação.
-
 ## Instalação
 
 Antes de executar os testes, certifique-se de ter o Cypress instalado. Execute o seguinte comando no terminal:
